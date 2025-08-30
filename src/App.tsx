@@ -167,7 +167,8 @@ function App() {
 
   const buttons: Array<{ label: string; onClick: () => void; className?: string }> = useMemo(
     () => [
-      // Change the label name c to clear
+      // Change the label name c to clear 
+      // xxxxxxxx
       { label: 'Clear', onClick: clearAll, className: 'btn-func' },
       { label: '±', onClick: toggleSign, className: 'btn-func' },
       { label: '%', onClick: percent, className: 'btn-func' },
