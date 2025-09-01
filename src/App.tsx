@@ -172,6 +172,7 @@ function App() {
       // zzzzzzzz 
       // yyyyyy
       // jj
+      // jj ++
       { label: 'Clear', onClick: clearAll, className: 'btn-func' },
       { label: '±', onClick: toggleSign, className: 'btn-func' },
       { label: '%', onClick: percent, className: 'btn-func' },
