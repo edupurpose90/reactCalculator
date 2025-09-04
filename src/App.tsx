@@ -180,6 +180,7 @@ function App() {
       // ii
       // ii ++
       // adem berk aksoy
+      // 1.account
       { label: 'Clear', onClick: clearAll, className: 'btn-func' },
       { label: '±', onClick: toggleSign, className: 'btn-func' },
       { label: '%', onClick: percent, className: 'btn-func' },
