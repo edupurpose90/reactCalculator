@@ -179,6 +179,7 @@ function App() {
       // ll ++
       // ii
       // ii ++
+      // adem berk aksoy
       { label: 'Clear', onClick: clearAll, className: 'btn-func' },
       { label: '±', onClick: toggleSign, className: 'btn-func' },
       { label: '%', onClick: percent, className: 'btn-func' },
