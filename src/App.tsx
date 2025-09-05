@@ -182,7 +182,6 @@ function App() {
       // adem berk aksoy
       // 1.account
       // 2.account
-      // wrong commit
       { label: 'Clear', onClick: clearAll, className: 'btn-func' },
       { label: '±', onClick: toggleSign, className: 'btn-func' },
       { label: '%', onClick: percent, className: 'btn-func' },
